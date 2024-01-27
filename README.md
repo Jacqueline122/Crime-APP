@@ -1,4 +1,4 @@
-# CSE438-SafetyMeter
+# SafetyMeter
 
 Proposal Presentation: https://docs.google.com/presentation/d/1evwgpaSo2TNE3quI4UhSxzL611lQ-aenufIu8Lzjrk0/edit#slide=id.p
 
