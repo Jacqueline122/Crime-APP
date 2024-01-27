@@ -1,7 +1,5 @@
 # SafetyMeter
 
-Proposal Presentation: https://docs.google.com/presentation/d/1evwgpaSo2TNE3quI4UhSxzL611lQ-aenufIu8Lzjrk0/edit#slide=id.p
-
 Map:
 - When you build the app and map function isn’t working, please go to Features > Location > Custom Location.. and set your simulator location to be 38.64801 and -90.24142 since simulator doesn’t detect the current location.
 - When you build the app and map function isn’t working, please  go to Features > Location > Custom Location..  and set your simulator location to be 38.64801 and  -90.24142 since simulator doesn’t detect the current location.
